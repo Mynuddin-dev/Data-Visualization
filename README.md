@@ -1,2 +1,2 @@
 # Data-Visualization
-### [Micrisoft Power-Bi] (https://github.com/Mynuddin-dev/Microsoft-Power-BI)
+### [Micrisoft Power-Bi] : (https://github.com/Mynuddin-dev/Microsoft-Power-BI)
